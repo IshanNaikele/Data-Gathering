@@ -4,3 +4,5 @@ numpy
 seaborn
 matplotlib
 requests
+bs4
+lxml
